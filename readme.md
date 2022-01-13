@@ -12,4 +12,5 @@ From the given list of .csv files in input directory, this program will generate
 2. pandas v1.3.5 or above
 3. numpy v1.18 or above
 4. natsort v7.0.0 or above
+
 Once python is installed type this in terminal to install all other dependencies `pip install pandas numpy natsort`
